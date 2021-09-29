@@ -31,7 +31,7 @@ body{
   background-size: cover ;
   background-position: center;
   font-family: "Andika", sans-serif;
-  background-image: url("../images/favicon.ico");
+  background-image: url("../images/pigeon-background.JPEG");
   background-color: #DDDDDD;
   /*Req 1*/
 }
@@ -110,8 +110,8 @@ tr:nth-child(even){
   background-color: #D1D1D1;
 }
 
-tbody tr:hover{
-  background-color: hsl(345, 88%, 26%, 0.25);
+tr:hover{
+  background-color: rgba(126, 8, 37, 0.25);
 }
 
 /*Add selectors and rules here*/
